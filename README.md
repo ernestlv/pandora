@@ -22,6 +22,7 @@ http://localhost:3000
 - **Show**: 10
 
 Note: **Show** is the number of slices to show in the chart if not specified defaults to 25. 
+
 Note 2: Each slice in the chart represents the number of events in a week in the result set.
 
 #### Case Two
