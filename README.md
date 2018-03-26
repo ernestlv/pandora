@@ -4,6 +4,13 @@
 
 You can see screen-shot examples of the web app in the [screens] folder
 
+## Server Side Requirements
+
+Any Node Version that supports ES2017. I used:
+
+Node 9.5.0
+NPM 5.7.1
+
 ## Install
 
 git clone https://github.com/ernestlv/pandora.git
