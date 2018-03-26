@@ -1,0 +1,53 @@
+.search-form {
+	padding: 1rem;
+	border-top: 1px solid orange;
+	border-bottom: 1px solid orange;
+}
+.search-form label {
+	line-height: 2;
+	display: inline-block;
+	width: 7rem;
+}
+.search-form .req:after {
+	content: '*';
+	color: red;
+}
+.search-form input {
+	width: 10rem;
+}
+.search-form button {
+	font-size: 1rem;
+	margin-top: 1rem;
+	padding: 0.5rem;
+	border: 0;
+	border-radius: 0.5rem;
+	background-color: lightseagreen;
+}
+.search-message {
+	padding: 1rem;
+}
+table {
+	width: 100%;
+	border-spacing: 0;
+}
+th:first-child {
+	width: 25%;
+	padding: 1rem;
+}
+th:last-child {
+	text-align: left;
+}
+td {
+	border-top: 1px solid silver;
+	padding: 0.5rem;
+}
+td:first-child {
+	text-align: center;
+}
+tr:last-child td {
+	border-bottom: 1px solid silver;
+}
+
+#pieChart {
+    text-align: center;
+}
