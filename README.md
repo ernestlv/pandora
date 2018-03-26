@@ -8,8 +8,8 @@ You can see screen-shot examples of the web app in the [screens] folder
 
 Any Node Version that supports ES2017. I used:
 
-Node 9.5.0
-NPM 5.7.1
+- **Node** Version 9.5.0
+- **NPM** Version 5.7.1
 
 ## Install
 
