@@ -2,6 +2,8 @@
 
 ## Install
 
+git clone https://github.com/ernestlv/pandora.git
+
 npm install
 
 ## Run Server
