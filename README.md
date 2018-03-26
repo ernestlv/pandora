@@ -40,6 +40,6 @@ We use these libraries in the front-end
 - React Version: 15.4.2
 - Babel: 6.21.1
 
-# SAMPLES
+# Screens
 
 You can see screen-shot samples in the _screens_ folder
