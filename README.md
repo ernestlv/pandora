@@ -1,5 +1,9 @@
 # Pandora API
 
+## Examples
+
+You can see screen-shot examples of the web app in the [screens] folder
+
 ## Install
 
 git clone https://github.com/ernestlv/pandora.git
@@ -42,9 +46,6 @@ We use these libraries in the front-end
 - [React] Version: 15.4.2
 - [Babel] Version: 6.21.1
 
-# Screens
-
-You can see screen-shot samples in the [screens] folder
 
 [screens]: https://github.com/ernestlv/pandora/tree/master/screens
 [react]: https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js
