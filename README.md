@@ -29,6 +29,8 @@ http://localhost:3000
 
 Note: **Show** is the number of weeks to show in the chart (provided the artist has that many events per week) if not specified defaults to 25. 
 
+Note 2: The Pie Chart is read clockwise.
+
 
 #### Case Two
 
