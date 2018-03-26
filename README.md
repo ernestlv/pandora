@@ -18,12 +18,12 @@ http://localhost:3000
 
 #### Case One
 
-- **Artist**: U2
+- **Artist**: Kanye West
 - **Start Date**: 2017-01-01
 - **End Date**: 2017-12-31
 - **Show**: 10
 
-Note: **Show** is the number of slices to show in the chart if not specified defaults to 25. 
+Note: **Show** is the number of slices to show in the chart (provided the artist has that many events) if not specified defaults to 25. 
 
 Note 2: Each slice in the chart represents the number of events in a week in the result set.
 
