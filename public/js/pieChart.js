@@ -12,7 +12,7 @@ class PieChart extends React.Component {
 					"font": "open sans"
 				},
 				"subtitle": {
-					"text": "Shows the first "+content.length+" busiest weeks of the time range",
+					"text": "Shows the first "+content.length+" busiest weeks of the time range. Read clockwise.",
 					"color": "#999999",
 					"fontSize": 12,
 					"font": "open sans"
