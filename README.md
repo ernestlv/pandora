@@ -19,12 +19,11 @@ http://localhost:3000
 - **End Date**: 2017-12-31
 - **Show**: 10
 
+Note: **Show** is the number of slices to show in the chart if not specified defaults to 25. 
 
 - **Artist**: Pearl Jam
 - **Start Date**: 2016-01-01
 - **End Date**: 2017-12-31
-
-Note: **Show** is the number of slices to show in the chart if not specified defaults to 25. 
 
 Note 2: Each slice in the chart represents the number of events in a week in the result set.
 
