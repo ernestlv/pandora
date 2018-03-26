@@ -14,16 +14,17 @@ http://localhost:3000
 
 ## Test Cases:
 
-- Artist: U2
-- Start Date: 2017-01-01
-- End Date: 2017-12-31
-- Show: 10
+- **Artist**: U2
+- **Start Date**: 2017-01-01
+- **End Date**: 2017-12-31
+- **Show**: 10
 
-- Artist: Pearl Jam
-- Start Date: 2016-01-01
-- End Date: 2017-12-31
 
-Note: Show is the number of slices to show in the chart if not specified defaults to 25. 
+- **Artist**: Pearl Jam
+- **Start Date**: 2016-01-01
+- **End Date**: 2017-12-31
+
+Note: **Show** is the number of slices to show in the chart if not specified defaults to 25. 
 
 Note 2: Each slice in the chart represents the number of events in a week in the result set.
 
@@ -40,4 +41,4 @@ We use these libraries in the front-end
 
 #SAMPLES
 
-You can see screen-shot samples in the -screens- folder
+You can see screen-shot samples in the _screens_ folder
