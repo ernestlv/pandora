@@ -14,7 +14,7 @@ http://localhost:3000
 
 ## Test Cases:
 
-Case One
+#### Case One
 
 - **Artist**: U2
 - **Start Date**: 2017-01-01
@@ -25,13 +25,13 @@ Note: **Show** is the number of slices to show in the chart if not specified def
 
 Note 2: Each slice in the chart represents the number of events in a week in the result set.
 
-Case Two
+#### Case Two
 
 - **Artist**: Pearl Jam
 - **Start Date**: 2016-01-01
 - **End Date**: 2017-12-31
 
-##Notes
+## Notes
 
 We use these libraries in the front-end
 
@@ -40,6 +40,6 @@ We use these libraries in the front-end
 - React Version: 15.4.2
 - Babel: 6.21.1
 
-#SAMPLES
+# SAMPLES
 
 You can see screen-shot samples in the _screens_ folder
