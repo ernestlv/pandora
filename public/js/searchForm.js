@@ -24,8 +24,8 @@ class SearchForm extends React.Component {
 	        	<label className="req">Artist Name:</label><input type="text" placeholder="Kanye West" ref={ input => this.artistInput = input }/><br />
 	        	<label className="req">Start Date:</label><input type="text" placeholder="yyyy-mm-dd" ref={ input => this.startInput = input }/><br />
 	        	<label className="req">End Date:</label><input type="text" placeholder="yyyy-mm-dd" ref={ input => this.endInput = input }/><br />
-	        	<label>Show:</label><input type="text" placeholder="# of events to show in chart" ref={ input => this.showInput = input }/><br />
-	        	<button onClick={this.handleClickSearch.bind(this)}>Search Event Stats</button>
+	        	<label>Show:</label><input type="text" placeholder="# of weeks to show in chart" ref={ input => this.showInput = input }/><br />
+	        	<button onClick={this.handleClickSearch.bind(this)}>Search Artist Stats</button>
 	        </div>
         );
     }
