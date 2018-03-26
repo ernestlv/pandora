@@ -41,11 +41,11 @@ Note 2: Each slice in the chart represents the number of events in a week in the
 
 We use these libraries in the front-end
 
-- [D3] Version: 4.7.2 - http//cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js
-- [D3 Pie] Version: 0.2.1 - https://raw.githubusercontent.com/benkeen/d3pie/0.2.1/d3pie/d3pie.min.js
-- [React] Version: 15.4.2 - https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js
-- React DOM Version: 15.4.2 - https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js
-- [Babel] Version: 6.21.1 - https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js
+- **D3** Version: 4.7.2 - https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js
+- **D3 Pie** Version: 0.2.1 - https://raw.githubusercontent.com/benkeen/d3pie/0.2.1/d3pie/d3pie.min.js
+- **React** Version: 15.4.2 - https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js
+- **React DOM** Version: 15.4.2 - https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js
+- **Babel** Version: 6.21.1 - https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js
 
 
 [screens]: https://github.com/ernestlv/pandora/tree/master/screens
